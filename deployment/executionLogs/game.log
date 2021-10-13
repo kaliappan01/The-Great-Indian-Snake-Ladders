@@ -1,0 +1,27 @@
+2021-09-30 16:47:49,762 [main] INFO  bootstrap.Driver - New game started
+2021-09-30 16:49:19,603 [main] INFO  bootstrap.Driver - New game started
+2021-09-30 16:49:29,137 [main] INFO  bootstrap.Driver - kpgot a 2 on dice
+2021-09-30 16:49:35,996 [main] INFO  bootstrap.Driver - Game paused by domain.Player@255316f2
+2021-09-30 16:53:15,569 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 16:53:23,958 [main] INFO  bootstrap.Driver - kpgot a 5 on dice
+2021-09-30 16:53:25,821 [main] INFO  bootstrap.Driver - Game paused by domain.Player@6d9c638
+2021-09-30 16:53:58,505 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 16:54:01,214 [main] INFO  bootstrap.Driver - kpgot a 4 on dice
+2021-09-30 16:54:03,159 [main] INFO  bootstrap.Driver - Game paused by domain.Player@6d9c638
+2021-09-30 16:55:36,679 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-09-30 16:55:36,680 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 16:55:38,488 [main] INFO  bootstrap.Driver - kpgot a 5 on dice
+2021-09-30 16:55:40,008 [main] INFO  bootstrap.Driver - Game paused by domain.Player@2ff5659e
+2021-09-30 19:04:11,657 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-09-30 19:04:11,659 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 19:04:17,547 [main] INFO  bootstrap.Driver - kpgot a 1 on dice
+2021-09-30 19:04:18,607 [main] INFO  bootstrap.Driver - Game paused by domain.Player@2ff5659e
+2021-09-30 19:05:21,838 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-09-30 19:05:21,839 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 19:05:24,536 [main] INFO  bootstrap.Driver - kpgot a 2 on dice
+2021-09-30 19:05:25,777 [main] INFO  bootstrap.Driver - gkgot a 5 on dice
+2021-09-30 19:05:27,204 [main] INFO  bootstrap.Driver - Game paused by kp
+2021-09-30 19:08:06,227 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-09-30 19:08:06,228 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-09-30 19:08:08,065 [main] INFO  bootstrap.Driver - kpgot a 3 on dice
+2021-09-30 19:08:09,337 [main] INFO  bootstrap.Driver - Game paused by domain.Player@2ff5659e

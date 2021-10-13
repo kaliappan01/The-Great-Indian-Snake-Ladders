@@ -1,0 +1,39 @@
+2021-10-02 00:01:32,097 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:07:41,323 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:07:43,577 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:08:04,521 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:08:06,145 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:08:29,337 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:08:32,003 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:10:58,529 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:11:01,817 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:12:23,602 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:12:26,178 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:21:29,611 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:21:33,476 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-10-02 00:25:55,622 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:25:57,600 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-10-02 00:29:07,470 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:29:11,226 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:29:20,464 [main] INFO  bootstrap.Driver -  got a 5 on dice
+2021-10-02 00:29:22,108 [main] INFO  bootstrap.Driver - Game paused by kp
+2021-10-02 00:29:26,249 [main] INFO  bootstrap.Driver - Game paused by jk
+2021-10-02 00:30:31,534 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:30:34,938 [main] INFO  bootstrap.Driver - New game started
+2021-10-02 00:30:42,621 [main] INFO  bootstrap.Driver -  got a 2 on dice
+2021-10-02 00:30:43,620 [main] INFO  bootstrap.Driver - kp got a 1 on dice
+2021-10-02 00:30:43,621 [main] INFO  bootstrap.Driver - kp found a ladder
+2021-10-02 00:30:44,979 [main] INFO  bootstrap.Driver - l got a 1 on dice
+2021-10-02 00:30:44,980 [main] INFO  bootstrap.Driver - l found a ladder
+2021-10-02 00:30:46,621 [main] INFO  bootstrap.Driver - Game paused by 
+2021-10-02 00:30:50,864 [main] INFO  bootstrap.Driver - Game paused by 
+2021-10-02 00:33:44,280 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:33:46,497 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-10-02 00:33:48,571 [main] INFO  bootstrap.Driver -  got a 1 on dice
+2021-10-02 00:33:51,525 [main] INFO  bootstrap.Driver - kp got a 3 on dice
+2021-10-02 00:33:53,190 [main] INFO  bootstrap.Driver - l got a 1 on dice
+2021-10-02 00:33:55,674 [main] INFO  bootstrap.Driver - Game paused by 
+2021-10-02 00:34:01,824 [main] INFO  bootstrap.Driver - The Great Indian Snakes & Ladders 
+2021-10-02 00:34:04,296 [main] INFO  bootstrap.Driver - Fetching previous game status
+2021-10-02 00:34:06,539 [main] INFO  bootstrap.Driver -  got a 3 on dice
+2021-10-02 00:34:09,582 [main] INFO  bootstrap.Driver - kp got a 5 on dice
